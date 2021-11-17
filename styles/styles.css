@@ -1,0 +1,19 @@
+.padre {
+    background: rgb(#2ECCFA);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+table {
+    width:80%;
+    height:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+  }
+
+  body{
+    background:#2ECCFA ;
+  }
